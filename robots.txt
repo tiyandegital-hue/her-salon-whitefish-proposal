@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://her-salon-whitefish-proposal.vercel.app/sitemap.xml
